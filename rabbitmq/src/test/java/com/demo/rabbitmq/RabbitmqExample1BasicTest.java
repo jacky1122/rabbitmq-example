@@ -8,8 +8,6 @@ import com.demo.rabbitmq.util.RabbitmqBuilder;
 import com.demo.rabbitmq.util.RabbitmqBuilder.ChannelBuilder;
 import com.demo.rabbitmq.util.RabbitmqBuilder.IMessageConsumer;
 import com.rabbitmq.client.AMQP;
-import com.rabbitmq.client.Consumer;
-import com.rabbitmq.client.DefaultConsumer;
 import com.rabbitmq.client.Envelope;
 
 import org.junit.Test;
