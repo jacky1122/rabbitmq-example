@@ -28,3 +28,9 @@ HELP.md
 ### VS Code ###
 .vscode/
 /rabbitmq/.mvn
+/rabbitmq/target/
+/rabbitmq/.settings/
+/rabbitmq/.vscode/
+*/.classpath
+*/.factorypath
+*/.project
